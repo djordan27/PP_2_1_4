@@ -1,0 +1,15 @@
+/.idea/.gitignore
+/target/classes/app/model/Animal.class
+/target/classes/app/model/AnimalsCage.class
+/target/classes/app/config/AppConfig.class
+/target/classes/app/Application.class
+/target/classes/app/model/Cat.class
+/.idea/compiler.xml
+/target/classes/app/model/Dog.class
+/.idea/encodings.xml
+/.idea/jarRepositories.xml
+/target/test-classes/MainTest.class
+/.idea/misc.xml
+/pom.xml
+/target/classes/app/model/Timer.class
+/.idea/vcs.xml
